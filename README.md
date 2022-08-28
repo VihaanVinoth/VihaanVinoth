@@ -14,7 +14,7 @@ https://vectordev.cf
 
 🌱 I'm learning everything I do 💻
 
-✊ Goals: Finish building the website I am making for my project 🤝
+✊ Goals: Become a full-stack developer 🤝
 
 👨‍🦰👩 My pronouns is He/Him
 
@@ -31,3 +31,16 @@ https://vectordev.cf
 - [Buy me a coffee ☕️](https://www.buymeacoffee.com/vihaanvinoth)
 - [Follow the Vector organization](https://github.com/Vector-Develop)
 </details>
+
+# My Feed 
+
+| What I am doing right now |  What I will do in the future |
+| ----------- | ----------- | 
+| Vector website | Learn Javascript |
+| ⠀⠀|⠀⠀|
+| ⠀⠀|⠀⠀|
+| ⠀⠀|⠀⠀|
+| ⠀⠀|⠀⠀|
+| ⠀⠀|⠀⠀|
+| ⠀⠀|⠀⠀|
+| ⠀⠀|⠀⠀|
