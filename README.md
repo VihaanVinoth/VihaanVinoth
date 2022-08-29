@@ -45,7 +45,7 @@ https://vectordev.cf
 | ⠀⠀|⠀⠀|
 | ⠀⠀|⠀⠀|
 
-### Applications and extensions I use
+# Applications and extensions I use
 | Application | Extension |
 | ----------- | ----------- |
 |<img src="https://user-images.githubusercontent.com/75300329/187105820-a6bf260f-2340-421c-9602-83c4b8dd5727.png"  width="30" height="30">| C/C++
