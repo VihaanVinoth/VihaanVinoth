@@ -2,7 +2,7 @@
 
 | First Name | Last Name | Type of Developer | 1ˢᵗ Code Lang. Skill | 2ⁿᵈ Code Lang. Skill | Total Stars Earned | Total Commits | Total PRs | Total Issues | Total Contributes | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Vihaan | Vinoth | Frontend | HTML | CSS | 0 | 19 | 0 | 1 | 28 |
+| Vihaan | Vinoth | Frontend | HTML | CSS | 0 | 19 | 0 | 1 | 31 |
 
 # My Feed 
 
