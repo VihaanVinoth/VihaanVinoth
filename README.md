@@ -1,8 +1,8 @@
 # Hello, I'm Vihaan Vinoth, a frontend developer 👋
 
-| First Name | Last Name | Type of Developer | 1ˢᵗ Code Lang. Skill | 2ⁿᵈ Code Lang. Skill | Total Stars Earned | Total Commits | Total PRs | Total Issues | Contributed to | Total Contributes | 
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Vihaan | Vinoth | Frontend | HTML | CSS | 0 | 19 | 0 | 1 | 3 | 28 |
+| First Name | Last Name | Type of Developer | 1ˢᵗ Code Lang. Skill | 2ⁿᵈ Code Lang. Skill | Total Stars Earned | Total Commits | Total PRs | Total Issues | Total Contributes | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Vihaan | Vinoth | Frontend | HTML | CSS | 0 | 19 | 0 | 1 | 28 |
 
 ### Visit my website and spread the URL! ⬇️
 ```
