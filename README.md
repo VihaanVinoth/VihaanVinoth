@@ -29,7 +29,7 @@ https://vectordev.cf
 <summary>Things to support me ❤️</summary>
 
 - [Buy me a coffee ☕️](https://www.buymeacoffee.com/vihaanvinoth)
-- [Follow the Vector organization](https://github.com/Vector-Develop)
+- [Follow the official Vector github organization](https://github.com/Vector-Develop)
 </details>
 
 # My Feed 
