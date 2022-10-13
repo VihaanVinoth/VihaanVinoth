@@ -4,24 +4,15 @@
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Vihaan | Vinoth | Frontend | HTML | CSS | 0 | 19 | 0 | 1 | 31 |
 
-| In Progress | Open Source (Cheatsheets) | Open Source |
-| ----------- | ----------- | ----------- |
-|  [· Vector website](https://vectordev.cf)<br>| Markdown Cheatsheet | | |
-
 <details>
 <summary>Things to support me ❤️</summary>
 
 - [Buy me a coffee ☕️](https://www.buymeacoffee.com/vihaanvinoth)
-- [Follow the official Vector github organization](https://github.com/Vector-Develop)
 </details>
 
-### Visit my website and spread the URL! ⬇️
-```
-https://vectordev.cf
-```
 ### Things that I do  🔍
 
-🖋 I'm currently working on the Vector website
+🖋 I'm currently working on a code website
 
 🌱 I'm learning everything I do 💻
 
