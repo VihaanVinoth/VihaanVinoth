@@ -1,8 +1,8 @@
 # Hello, I'm Vihaan Vinoth, a frontend developer from Australia 🇦🇺 but a passionate Indian 🇮🇳.  👋
 
-| First Name | Last Name | Type of Developer | 1ˢᵗ Code Lang. Skill | 2ⁿᵈ Code Lang. Skill | Total Stars Earned | Total Commits | Total PRs | Total Issues | Total Contributes | 
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Vihaan | Vinoth | Frontend | HTML | CSS | 0 | 19 | 0 | 1 | 31 |
+| First Name | Last Name | Type of Developer | 1ˢᵗ Code Lang. Skill | 2ⁿᵈ Code Lang. Skill | Total Stars Earned | Total PRs | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Vihaan | Vinoth | Frontend | HTML | CSS | 0 | 1 |
 
 <details>
 <summary>Things to support me ❤️</summary>
@@ -16,7 +16,7 @@
 
 🌱 I'm learning everything I do 💻
 
-✊ Goals: Become a full-stack developer 🤝
+✊ Goals: Become a full-stack developer between 2022-2023 🤝
 
 👨‍🦰👩 My pronouns is He/Him
 
