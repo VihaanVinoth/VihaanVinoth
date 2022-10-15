@@ -2,7 +2,7 @@
 
 | First Name | Last Name | Type of Developer | 1ˢᵗ Code Lang. Skill | 2ⁿᵈ Code Lang. Skill | Total Stars Earned | Total PRs | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Vihaan | Vinoth | Frontend | HTML | CSS | 0 | 1 |
+| Vihaan | Vinoth | Frontend | HTML | CSS | 0 | 0 |
 
 <details>
 <summary>Things to support me ❤️</summary>
