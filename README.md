@@ -18,6 +18,6 @@
 
 ✊ Goals: Become a full-stack developer between 2022-2023 🤝
 
-👨‍🦰👩 My pronouns is He/Him
+👨‍🦰 My pronouns is He/Him
 
 ⚡️Fact: I love bike riding! 🚴‍♂️
