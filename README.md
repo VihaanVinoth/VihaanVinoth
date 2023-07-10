@@ -12,9 +12,7 @@
 
 ### Things that I do  🔍
 
-🖋 I'm currently working on a code website
-
-🌱 I'm learning everything I do 💻
+🖋 I'm currently working on my portfolio
 
 ✊ Goals: Become a full-stack developer between 2022-2023 🤝
 
