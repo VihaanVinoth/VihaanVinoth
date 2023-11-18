@@ -14,7 +14,7 @@
 
 🖋 I'm currently working on my portfolio
 
-✊ Goals: Become a full-stack developer between 2022-2023 🤝
+✊ Goals: Become a full-stack developer 📚
 
 👨‍🦰 My pronouns is He/Him
 
