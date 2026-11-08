@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-Loading today's fact...
+Tehran is the most expensive city on earth.
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
