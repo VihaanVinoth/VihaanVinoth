@@ -23,27 +23,45 @@
 <br>
 
 <table>
-  <tr>
-  <td width="55%" valign="top">
-  
-  ### 🚀 About Me
-  
-  I’m a full-stack developer with 3+ years of experience building web applications, designing interfaces, and tinkering with custom hardware & local servers.
-  
-  I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" src="https://github.com/user-attachments/assets/61b12142-a36d-404e-8236-38a030e8311e" /> <a href="https://hackclub.com" target="_blank">Hack Club</a>**, where I ship open-source projects, build hardware prototypes, and collaborate with developers worldwide.
-  
-  #### 🥭 Core Interests & Focus
-  
-  * `LAMP Stack`
-  * `Embedded Systems`
-  * `UI/UX Design`  
-  * `Custom QMK Firmware`
-  * `Open Source`
-  * `Vector Graphic Design`
+<tr>
+<td width="55%" valign="top">
 
-  <br>
-  </td>
-  </tr>
+### 🚀 About Me
+
+I’m a full-stack developer with 3+ years of experience building web applications, designing interfaces, and tinkering with custom hardware & local servers.
+
+I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" src="https://github.com/user-attachments/assets/61b12142-a36d-404e-8236-38a030e8311e" /> <a href="https://hackclub.com" target="_blank">Hack Club</a>**, where I ship open-source projects, build hardware prototypes, and collaborate with developers worldwide.
+
+#### 🥭 Core Interests & Focus
+
+- `LAMP Stack`
+- `Embedded Systems`
+- `UI/UX Design`  
+- `Custom QMK Firmware`
+- `Open Source`
+- `Vector Graphic Design`
+
+</td>
+<td width="45%" valign="top" align="center">
+
+### 🎯 Play Carrom
+
+We're currently playing <a href="https://en.wikipedia.org/wiki/Carrom" target="_blank">Carrom</a>! 
+
+<!-- START_SECTION:carrom_status -->
+Game **#1** • Turn: **Striker Ready**
+<!-- END_SECTION:carrom_status -->
+
+<img width="100%" alt="Carrom Board State" src="https://raw.githubusercontent.com/vihaanvinoth/vihaanvinoth/main/images/carrom_board.svg?v=1" />
+
+<p align="center">
+  <a href="https://github.com/vihaanvinoth/vihaanvinoth/issues/new?title=carrom:strike+left"><b>⬅️ Left</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/vihaanvinoth/vihaanvinoth/issues/new?title=carrom:strike+center"><b>⬆️ Center</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/vihaanvinoth/vihaanvinoth/issues/new?title=carrom:strike+right"><b>➡️ Right</b></a>
+</p>
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -73,7 +91,6 @@
 > 🎯 **Current Goal:** Over-engineer full-stack tools and build custom hardware devices from scratch.  
 > 🏸 **Fun Fact:** When I'm not writing code or soldering PCBs, I'm usually spiking in badminton or eating a whole Thali 🍛. <br>
 > 🎵 **Bonus Fact:** I'm an avid musician, and I currently play the Guitar, Drums, and Flute.
-
 
 <br>
 
