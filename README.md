@@ -1,46 +1,86 @@
+<p align="center">
+  <a href="https://vihaanvinoth.com" target="_blank">
+    <img width="100%" alt="Vihaan's GitHub Banner" src="https://github.com/user-attachments/assets/8f28c9b2-2c0d-45a6-9d19-b531d16d1153" />
+  </a>
+</p>
 
-<img width="1000" height="300" alt="Github Banner (3)" src="https://github.com/user-attachments/assets/efb99067-abb4-49db-8af2-1208830ccfb7" />
+<h1 align="center">👋 Hey, I'm Vihaan! I'm from Melbourne, Australia.</h1>
+<p align="center">
+  <b>Young Full-Stack Developer · Music Enthusiast</b>
+</p>
 
-# 👋 Hello, I'm Vihaan, a developer from Melbourne, Australia.
-<img alt="followers" src="https://img.shields.io/github/followers/vihaanvinoth?label=Followers&style=social"> <img src="https://img.shields.io/github/stars/vihaanvinoth?label=Stars" alt="stars"> <img src="https://visitor-badge.laobi.icu/badge?page_id=VihaanVinoth.VihaanVinoth" alt="visitor badge"/>
+<p align="center">
+  <a href="https://vihaanvinoth.com" target="_blank"><img alt="Vihaan's Website" src="https://img.shields.io/badge/Website-vihaanvinoth.com-238636?style=flat-square&logo=globe&logoColor=white"></a>
+  <img alt="followers" src="https://img.shields.io/github/followers/vihaanvinoth?label=Followers&style=social">
+  <img alt="stars" src="https://img.shields.io/github/stars/vihaanvinoth?label=Stars&style=social">
+  <img alt="commits" src="https://img.shields.io/github/commit-activity/m/vihaanvinoth/vihaanvinoth?style=flat-square&color=238636&logo=git&label=Commits">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VihaanVinoth.VihaanVinoth" alt="visitor badge"/>
+  <img alt="status" src="https://img.shields.io/badge/Status-Building%20%26%20Tinkering-brightgreen?style=flat-square&logo=visualstudiocode">
+  <a href="https://github.com/sindresorhus/awesome" target="_blank"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38/media/badge.svg"></a>
+  <a href="https://www.buymeacoffee.com/vihaanvinoth" target="_blank"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"></a>
+</p>
 
-I have been programming for 3+ years, and I have built my portfolio, and tinkered through various aspects of technology. You can see me traversing through web design, practicing Illustrator, or eating a whole Thali 🍛
-
-<i>Things I like</i>:
-
-🥭 LAMP Stacks
 <br>
-🥭 Graphic Design
+
+<table>
+  <tr>
+  <td width="55%" valign="top">
+  
+  ### 🚀 About Me
+  
+  I’m a full-stack developer with 3+ years of experience building web applications, designing interfaces, and tinkering with custom hardware & local servers.
+  
+  I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" src="https://github.com/user-attachments/assets/61b12142-a36d-404e-8236-38a030e8311e" /> <a href="https://hackclub.com" target="_blank">Hack Club</a>**, where I ship open-source projects, build hardware prototypes, and collaborate with developers worldwide.
+  
+  #### 🥭 Core Interests & Focus
+  
+  * `LAMP Stack`
+  * `Embedded Systems`
+  * `UI/UX Design`  
+  * `Custom QMK Firmware`
+  * `Open Source`
+  * `Vector Graphic Design`
+
+  <br>
+  </td>
+  </tr>
+</table>
+
 <br>
-🥭 HTML/CSS
+
+### 🧰 Tech Stack & Ecosystem
+
+<p align="center">
+  <b>Languages & Web</b><br>
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,php,lua&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Systems, Databases & Hardware</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql,linux,debian,raspberrypi,docker,bash,vscode&theme=dark" />
+</p>
+
 <br>
-🥭 UI/UX
+
+### 💡 Today's Fact
+
+<!-- START_SECTION:fun_fact -->
+⚡️ **Fact of the Day:** Loading today's fact...
+<!-- END_SECTION:fun_fact -->
+
+### 🔍 Quick Highlights & Facts
+
+> 🎯 **Current Goal:** Over-engineer full-stack tools and build custom hardware devices from scratch.  
+> 🏸 **Fun Fact:** When I'm not writing code or soldering PCBs, I'm usually spiking in badminton or eating a whole Thali 🍛. <br>
+> 🎵 **Bonus Fact:** I'm an avid musician, and I currently play the Guitar, Drums, and Flute.
+
+
 <br>
-🥭 Mangoes
 
-[Buy me a coffee ☕️](https://www.buymeacoffee.com/vihaanvinoth)
+<p align="center">
+  <img width="100%" alt="Footer Banner" src="https://github.com/user-attachments/assets/f1f0cc75-6813-4301-ab71-9a709b94e2ef" />
+</p>
 
-<strong>Emoji of the Day: 📮</strong>
-
-### Toolbox 🧰
-
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/dde41393-6e50-44f3-8f54-4df40f0e3420" />
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/0fbee0d8-cd0b-4d4d-8424-2752b3b027d9" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/12a04f6a-4f06-4c25-8895-f3b51758a0ba" />
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/b66abd2f-6779-4cdc-9791-d515e3431a0a" />
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/2343b58e-d7de-4540-ad87-36c9a073da57" />
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/212b9a96-d1ba-4bf1-ac17-7b2266b81ca6" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/63cd84b1-d390-4977-ae2e-592f652c96d8" />
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/e6565aab-c2f4-4598-9fb9-76e4fec75650" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4aadda75-d867-43a7-86eb-38aa20de68e6" />
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/a90eae63-e7a5-493a-af24-89182c0ec3e3" />
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/9d1b19f9-8c64-4af6-80f4-60bfd59611e2" />
-<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/d0c24102-af78-4009-b823-1d9f65be2992" />
-
-
-### Extras  🔍
-
-✊ Goals: Over-engineer the Full-stack industry 📚
-
-⚡️ Fact: I love badminton 🏸
-
+<p align="center">
+  <img alt="Last Updated" src="https://img.shields.io/github/last-commit/vihaanvinoth/vihaanvinoth?style=flat-square&color=238636&logo=github&label=Last%20Profile%20Update">
+</p>
