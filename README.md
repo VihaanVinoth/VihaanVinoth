@@ -65,7 +65,7 @@
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-⚡️ **Fact of the Day:** Loading today's fact...
+⚡️ **Fact of the Day:** The surface of the human skin is 6.5 square feet (2m).
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
