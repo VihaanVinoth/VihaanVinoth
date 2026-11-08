@@ -3,6 +3,7 @@ name: Play Carrom via Issues
 on:
   issues:
     types: [opened]
+  workflow_dispatch:
 
 jobs:
   play-carrom:
@@ -22,7 +23,8 @@ jobs:
 
       - name: Process Move & Redraw Board
         run: |
-          python .github/scripts/carrom_engine.py "${{ github.event.issue.title }}"
+          # Fallback title if triggered manually via button
+          python .github/scripts/carrom_engine.py "${{ github.event.issue.title || 'carrom:strike+center' }}"
 
       - name: Commit and Push Board State
         run: |
@@ -31,7 +33,8 @@ jobs:
           git add images/carrom_board.svg README.md .github/carrom_state.json
           git diff --quiet && git diff --cached --quiet || (git commit -m "game: executed carrom strike 🎯" && git push)
 
-      - name: Close Issue Automatically
+      - name: Close Issue Automatically (Only if triggered by issue)
+        if: github.event_name == 'issues'
         uses: peter-evans/close-issue@v3
         with:
           comment: "🎯 Great shot! Your strike has been processed, the striker position updated, and your profile README has been refreshed."
