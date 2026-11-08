@@ -1,16 +1,20 @@
 import os
 import json
 import sys
+import re
 
 def update_game():
     issue_title = sys.argv[1].lower() if len(sys.argv) > 1 else ""
     
+    os.makedirs("images", exist_ok=True)
+    os.makedirs(".github", exist_ok=True)
+    
     state_path = ".github/carrom_state.json"
     if os.path.exists(state_path):
-        with open(state_path, "r") as f:
+        with open(state_path, "r", encoding="utf-8") as f:
             state = json.load(f)
     else:
-            state = {"game_number": 1, "striker_position": "Center", "total_moves": 0}
+        state = {"game_number": 1, "striker_position": "Center", "total_moves": 0}
 
     striker_x = 300
     pos_label = "Center"
@@ -27,7 +31,7 @@ def update_game():
     state["total_moves"] += 1
     state["striker_position"] = pos_label
 
-    with open(state_path, "w") as f:
+    with open(state_path, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2)
 
     svg_content = f'''<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
@@ -69,22 +73,21 @@ def update_game():
   <text x="{striker_x}" y="474" font-size="9" fill="white" font-weight="bold" text-anchor="middle">STRIKER</text>
 </svg>'''
 
-    os.makedirs("images", exist_ok=True)
     with open("images/carrom_board.svg", "w", encoding="utf-8") as f:
         f.write(svg_content)
 
-    with open("README.md", "r", encoding="utf-8") as f:
-        readme = f.read()
+    if os.path.exists("README.md"):
+        with open("README.md", "r", encoding="utf-8") as f:
+            readme = f.read()
 
-    import re
-    status_text = f"Game **#{state['game_number']}** • Last Strike: **{pos_label}** (Move #{state['total_moves']})"
-    pattern = r"(<!-- START_SECTION:carrom_status -->)(.*?)(<!-- END_SECTION:carrom_status -->)"
-    replacement = f"\\1\n{status_text}\n\\3"
-    
-    updated_readme = re.sub(pattern, replacement, readme, flags=r're.DOTALL' if 're.DOTALL' else 0)
-    
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(updated_readme)
+        status_text = f"Game **#{state['game_number']}** • Last Strike: **{pos_label}** (Move #{state['total_moves']})"
+        pattern = r"(<!-- START_SECTION:carrom_status -->)(.*?)(<!-- END_SECTION:carrom_status -->)"
+        replacement = f"\\1\n{status_text}\n\\3"
+        
+        updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+        
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(updated_readme)
 
 if __name__ == "__main__":
     update_game()
