@@ -2,7 +2,6 @@ import os
 import json
 import random
 import re
-import math
 
 def update_game():
     os.makedirs("images", exist_ok=True)
@@ -41,7 +40,7 @@ def update_game():
 
     def get_coords(pos_index, is_yellow=False):
         cx, cy = 300, 300
-        angle = (pos_index / 52.0) * 2 * math.pi
+        angle = (pos_index / 52.0) * 2 * 3.14159
         dist = 140 if not is_yellow else 110
         import math
         x = cx + math.cos(angle) * dist
