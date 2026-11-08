@@ -33,6 +33,6 @@
   <circle cx="278" cy="290" r="11" fill="#ffffff" stroke="#2d3436" stroke-width="1.5" />
 
   <!-- Dynamic Striker (Blue) -->
-  <circle cx="300" cy="470" r="16" fill="#0984e3" stroke="#2d3436" stroke-width="2" />
-  <text x="300" y="474" font-size="9" fill="white" font-weight="bold" text-anchor="middle">STRIKER</text>
+  <circle cx="400" cy="470" r="16" fill="#0984e3" stroke="#2d3436" stroke-width="2" />
+  <text x="400" y="474" font-size="9" fill="white" font-weight="bold" text-anchor="middle">STRIKER</text>
 </svg>

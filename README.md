@@ -49,7 +49,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 We're currently playing <a href="https://en.wikipedia.org/wiki/Carrom" target="_blank">Carrom</a>! 
 
 <!-- START_SECTION:carrom_status -->
-Game **#1** • Last Strike: **Center Baseline** (Move #1)
+Game **#1** • Last Strike: **Right Baseline** (Move #2)
 <!-- END_SECTION:carrom_status -->
 
 <img width="100%" alt="Carrom Board State" src="https://raw.githubusercontent.com/vihaanvinoth/vihaanvinoth/main/images/carrom_board.svg?v=1" />
