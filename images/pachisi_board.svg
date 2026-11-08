@@ -10,6 +10,6 @@
   <text x="525" y="310" font-size="24" fill="#f1c40f" text-anchor="middle">✖</text>
   <circle cx="423" cy="365" r="18" fill="#e74c3c" stroke="#ffffff" stroke-width="3" />
   <text x="423" y="370" font-size="12" fill="white" font-weight="bold" text-anchor="middle">R</text>
-  <circle cx="410" cy="300" r="18" fill="#f1c40f" stroke="#ffffff" stroke-width="3" />
-  <text x="410" y="305" font-size="12" fill="#2c3e50" font-weight="bold" text-anchor="middle">Y</text>
+  <circle cx="339" cy="402" r="18" fill="#f1c40f" stroke="#ffffff" stroke-width="3" />
+  <text x="339" y="407" font-size="12" fill="#2c3e50" font-weight="bold" text-anchor="middle">Y</text>
 </svg>
