@@ -1,8 +1,8 @@
 {
   "game_number": 1,
-  "current_turn": "Red",
-  "total_rolls": 0,
-  "red_pos": 0,
+  "current_turn": "Yellow",
+  "total_rolls": 1,
+  "red_pos": 4,
   "yellow_pos": 0,
-  "last_roll": 0
+  "last_roll": 4
 }

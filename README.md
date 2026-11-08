@@ -49,7 +49,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 We're playing <a href="https://en.wikipedia.org/wiki/Pachisi" target="_blank">Pachisi (aka Chaupar)</a>.
 
 <!-- START_SECTION:pachisi_status -->
-Game **#1** • Turn: **Red Team 🔴**
+Game **#1** • Rolled **4** 🐚 • Next Turn: **Yellow Team 🟡**
 <!-- END_SECTION:pachisi_status -->
 
 <img width="100%" alt="Pachisi Board State" src="https://raw.githubusercontent.com/vihaanvinoth/vihaanvinoth/main/images/pachisi_board.svg?v=1" />

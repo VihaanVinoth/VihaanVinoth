@@ -1,0 +1,15 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" rx="16" fill="#1b120c" />
+  <rect x="225" y="45" width="150" height="510" fill="#a03020" stroke="#f1c40f" stroke-width="3" rx="4" />
+  <rect x="45" y="225" width="510" height="150" fill="#a03020" stroke="#f1c40f" stroke-width="3" rx="4" />
+  <rect x="225" y="225" width="150" height="150" fill="#2c3e50" stroke="#f1c40f" stroke-width="3" />
+  <text x="300" y="305" font-size="14" fill="#f1c40f" font-weight="bold" text-anchor="middle">CHARKONI</text>
+  <text x="300" y="85" font-size="24" fill="#f1c40f" text-anchor="middle">✖</text>
+  <text x="300" y="535" font-size="24" fill="#f1c40f" text-anchor="middle">✖</text>
+  <text x="75" y="310" font-size="24" fill="#f1c40f" text-anchor="middle">✖</text>
+  <text x="525" y="310" font-size="24" fill="#f1c40f" text-anchor="middle">✖</text>
+  <circle cx="423" cy="365" r="18" fill="#e74c3c" stroke="#ffffff" stroke-width="3" />
+  <text x="423" y="370" font-size="12" fill="white" font-weight="bold" text-anchor="middle">R</text>
+  <circle cx="410" cy="300" r="18" fill="#f1c40f" stroke="#ffffff" stroke-width="3" />
+  <text x="410" y="305" font-size="12" fill="#2c3e50" font-weight="bold" text-anchor="middle">Y</text>
+</svg>
