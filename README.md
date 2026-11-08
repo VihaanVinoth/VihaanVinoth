@@ -42,23 +42,6 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 - `Vector Graphic Design`
 
 </td>
-<td width="45%" valign="top" align="center">
-
-### 🎲 Play Pachisi
-
-We're playing <a href="https://en.wikipedia.org/wiki/Pachisi" target="_blank">Pachisi (aka Chaupar)</a>.
-
-<!-- START_SECTION:pachisi_status -->
-Game **#1** • Rolled **10** 🐚 • Next Turn: **Red Team 🔴**
-<!-- END_SECTION:pachisi_status -->
-
-<img width="100%" alt="Pachisi Board State" src="https://raw.githubusercontent.com/vihaanvinoth/vihaanvinoth/main/images/pachisi_board.svg?v=1" />
-
-<p align="center">
-  <a href="https://github.com/vihaanvinoth/vihaanvinoth/issues/new?title=pachisi:roll+cowrie"><b>🐚 Roll Cowrie Shells & Move</b></a>
-</p>
-
-</td>
 </tr>
 </table>
 
@@ -81,7 +64,7 @@ Game **#1** • Rolled **10** 🐚 • Next Turn: **Red Team 🔴**
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-The surface of the human skin is 6.5 square feet (2m).
+Loading today's fact...
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
