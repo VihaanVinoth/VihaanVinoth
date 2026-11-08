@@ -1,0 +1,39 @@
+name: Play Pachisi via Issues
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+jobs:
+  play-pachisi:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Process Cowrie Roll & Update Board
+        run: |
+          python .github/scripts/pachisi_engine.py
+
+      - name: Commit and Push Board State
+        run: |
+          git config --global user.name "pachisi-bot"
+          git config --global user.email "pachisi-bot@users.noreply.github.com"
+          git add images/pachisi_board.svg README.md .github/pachisi_state.json
+          git diff --quiet && git diff --cached --quiet || (git commit -m "game: rolled cowrie shells 🐚" && git push)
+
+      - name: Close Issue Automatically
+        if: github.event_name == 'issues'
+        uses: peter-evans/close-issue@v3
+        with:
+          comment: "🐚 Cowrie shells rolled! Your piece has advanced across the Pachisi board and your profile README has updated."

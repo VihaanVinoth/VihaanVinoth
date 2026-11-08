@@ -44,20 +44,18 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 </td>
 <td width="45%" valign="top" align="center">
 
-### 🎯 Play Carrom
+### 🎲 Play Pachisi
 
-We're currently playing <a href="https://en.wikipedia.org/wiki/Carrom" target="_blank">Carrom</a>! 
+We're playing <a href="https://en.wikipedia.org/wiki/Pachisi" target="_blank">Pachisi (aka Chaupar)</a>.
 
-<!-- START_SECTION:carrom_status -->
-Game **#1** • Last Strike: **Right Baseline** (Move #2)
-<!-- END_SECTION:carrom_status -->
+<!-- START_SECTION:pachisi_status -->
+Game **#1** • Turn: **Red Team 🔴**
+<!-- END_SECTION:pachisi_status -->
 
-<img width="100%" alt="Carrom Board State" src="https://raw.githubusercontent.com/vihaanvinoth/vihaanvinoth/main/images/carrom_board.svg?v=1" />
+<img width="100%" alt="Pachisi Board State" src="https://raw.githubusercontent.com/vihaanvinoth/vihaanvinoth/main/images/pachisi_board.svg?v=1" />
 
 <p align="center">
-  <a href="https://github.com/vihaanvinoth/vihaanvinoth/issues/new?title=carrom:strike+left"><b>⬅️ Left</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://github.com/vihaanvinoth/vihaanvinoth/issues/new?title=carrom:strike+center"><b>⬆️ Center</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://github.com/vihaanvinoth/vihaanvinoth/issues/new?title=carrom:strike+right"><b>➡️ Right</b></a>
+  <a href="https://github.com/vihaanvinoth/vihaanvinoth/issues/new?title=pachisi:roll+cowrie"><b>🐚 Roll Cowrie Shells & Move</b></a>
 </p>
 
 </td>
@@ -83,7 +81,7 @@ Game **#1** • Last Strike: **Right Baseline** (Move #2)
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-⚡️ **Fact of the Day:** The surface of the human skin is 6.5 square feet (2m).
+The surface of the human skin is 6.5 square feet (2m).
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts

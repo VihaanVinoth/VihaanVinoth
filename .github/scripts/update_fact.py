@@ -13,7 +13,7 @@ def fetch_random_fact():
 
 def update_readme():
     fact_text = fetch_random_fact()
-    formatted_fact = f"⚡️ **Fact of the Day:** {fact_text}"
+    formatted_fact = fact_text
     
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
