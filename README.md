@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.
+Hawaii is the only coffee producing state.
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
