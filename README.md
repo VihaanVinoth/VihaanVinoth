@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-Hawaii is the only coffee producing state.
+There are no words in the dictionary that rhyme with orange, purple, silver and month.
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
