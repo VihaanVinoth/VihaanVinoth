@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-There are no words in the dictionary that rhyme with orange, purple, silver and month.
+Georgia's state motto is "Wisdom, Justice and Moderation."
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
