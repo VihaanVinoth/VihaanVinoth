@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-Georgia's state motto is "Wisdom, Justice and Moderation."
+A man named Charles Osborne had the hiccups for 69 years!
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
