@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-"I" is the most spoken word in the English language
+People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
