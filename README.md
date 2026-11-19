@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.
+The first McDonald's restaurant in Canada was in Richmond, British Columbia.
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
