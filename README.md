@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-It`s possible to lead a cow upstairs but not downstairs.
+Most toilets flush in E flat.
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
