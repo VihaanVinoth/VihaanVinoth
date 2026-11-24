@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.
+If you put a drop of liquor on a scorpion, it will instantly go mad and sting itself to death.
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
