@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.
+What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
