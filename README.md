@@ -64,7 +64,7 @@ I'm also an active builder at **<img width="18" valign="middle" alt="Hack Club" 
 ### 💡 Today's Fact
 
 <!-- START_SECTION:fun_fact -->
-What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.
+THE MOST UNUSUAL CANNONBALL: On two occasions, Miss `Rita Thunderbird` remained inside the cannon despite a lot of gunpowder encouragement to do otherwise. She performed in a gold lamé bikini and on one of the two occasions (1977) Miss Thunderbird remained lodged in the cannon, while her bra was shot across the Thames River.
 <!-- END_SECTION:fun_fact -->
 
 ### 🔍 Quick Highlights & Facts
